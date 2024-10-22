@@ -1,3 +1,4 @@
-virtualenv/
+.DS_Store
+mexico-venv/
 .env
 final_search.csv
